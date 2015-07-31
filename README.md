@@ -20,4 +20,6 @@ As described here: http://veithen.github.io/2015/03/26/jekyll-bootstrap.html
 
 ## Bootstrap javascript
 
-http://getbootstrap.com/javascript/
+Documentation: http://getbootstrap.com/javascript/
+
+1. Move `bootstrap.min.js` from the bootstrap archive to `assets/javascript/`.
