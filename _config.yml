@@ -4,6 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A site currently under construction.
 baseurl: "" # the subpath of the site, e.g. /blog/
 url: "http://clauswilke.github.io" # the base hostname & protocol
+permalink: /blog/:year/:i_month/:i_day/:title
 
 # Build settings
 markdown: kramdown
