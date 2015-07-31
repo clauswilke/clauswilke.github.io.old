@@ -1,7 +1,7 @@
 # clauswilke.github.io
 
 
-## Import bootstrap into jekyll
+## Bootstrap sass
 
 As described here: http://veithen.github.io/2015/03/26/jekyll-bootstrap.html
 
@@ -16,3 +16,8 @@ As described here: http://veithen.github.io/2015/03/26/jekyll-bootstrap.html
     
 @import "bootstrap";
 ```
+
+
+## Bootstrap javascript
+
+http://getbootstrap.com/javascript/
