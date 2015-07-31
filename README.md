@@ -1,5 +1,6 @@
 # clauswilke.github.io
 
+This site uses the bootstrap framework. The following explains how I incorporated it into the site.
 
 ## Bootstrap sass
 
@@ -16,6 +17,7 @@ As described here: http://veithen.github.io/2015/03/26/jekyll-bootstrap.html
     
 @import "bootstrap";
 ```
+All variable definitions etc. need to be made before the final `@import "boostrap";` line.
 
 
 ## Bootstrap javascript
