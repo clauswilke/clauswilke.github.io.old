@@ -1,7 +1,7 @@
 # clauswilke.github.io
 
 
-## Import bootstrap into jekyll
+## Bootstrap sass
 
 As described here: http://veithen.github.io/2015/03/26/jekyll-bootstrap.html
 
@@ -16,3 +16,10 @@ As described here: http://veithen.github.io/2015/03/26/jekyll-bootstrap.html
     
 @import "bootstrap";
 ```
+
+
+## Bootstrap javascript
+
+Documentation: http://getbootstrap.com/javascript/
+
+1. Move `bootstrap.min.js` from the bootstrap archive to `assets/javascript/`.
