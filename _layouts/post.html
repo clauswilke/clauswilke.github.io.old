@@ -9,3 +9,11 @@ layout: default
       {% endfor %}</em></p>
 
 {{ content }}
+
+<!-- Make sure blog is shown as active -->
+<script>
+  $(document).ready(function() {
+        $('a[href="/blog/"]').parent().addClass('active');
+    });
+</script>
+

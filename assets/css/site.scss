@@ -8,3 +8,19 @@
     "bootstrap",
     "syntax"
 ;
+
+// figures
+figure {
+    @include make-row();
+    
+    .figure-body {
+        @include make-sm-column(8);
+    }
+    
+    .figure-caption {
+        @include make-sm-column(4);
+        
+        font-size: ceil(($font-size-base * 0.85));
+    }
+}
+

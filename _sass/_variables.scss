@@ -1,5 +1,70 @@
+//
+//   Fonts
+//
+
+// default font size
 $font-size-base: 17px;
-$headings-font-weight: 600;
+
+// font sizes for headings defined relatively,
+// to allow for responsive font-size change
+$font-size-h1:            1.7em;
+$font-size-h2:            1.4em; 
+$font-size-h3:            1em;
+$font-size-h4:            1em;
+
+// blockquotes should have the same font size as the rest of the text
 $blockquote-font-size: $font-size-base;
+
+//
+//   Colors
+//
+
+// grays
+$gray-base:              #000;
+$gray-darker:            lighten($gray-base, 13.5%); // #222
+$gray-dark:              lighten($gray-base, 20%);   // #333
+$gray:                   lighten($gray-base, 33.5%); // #555
+$gray-light:             lighten($gray-base, 46.7%); // #777
+$gray-lighter:           lighten($gray-base, 93.5%); // #eee
+
+// not yet modified from default bootstrap
+$brand-primary:         darken(#428bca, 6.5%) !default; // #337ab7
+$brand-success:         #5cb85c !default;
+$brand-info:            #5bc0de !default;
+$brand-warning:         #f0ad4e !default;
+$brand-danger:          #d9534f !default;
+
+// overall background color
+$body-bg: #fff;
+
+// overall text color
+$text-color:            $gray-dark !default;
+
+// global textual link color
+$link-color:            #2c36c3;
+$link-hover-color:      darken($link-color, 15%);
+// Link hover decoration.
+$link-hover-decoration: none;
+
+
+
+
+//
+//   Navbar
+//
+
+// navbar  
+$navbar-border-radius: 0;
+$navbar-default-bg: $body-bg;
+$navbar-default-border: $navbar-default-bg;
+
+// navbar text color
+$navbar-default-color:  $text-color;
+    
+// navbar link colors
+$navbar-default-link-color:                $gray;
+$navbar-default-link-hover-color:          $link-hover-color;
+$navbar-default-link-active-color:         $navbar-default-color;
+$navbar-default-link-active-bg:            $navbar-default-bg;
     
 @import "bootstrap/variables";
