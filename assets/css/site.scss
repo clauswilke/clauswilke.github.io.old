@@ -37,10 +37,14 @@ h1, h2, h3, h4, h5, h6 {
     font-size: $font-size-base;
 }
 
-// maybe at some point we want to pick distinct font for this
 .navbar-brand {
     font-family: "Cabin Condensed", $font-family-sans-serif;
 }
+
+a.navbar-brand:link, a.navbar-brand:visited {
+    color: $brand-primary;
+}
+
 
 // figures
 figure {
@@ -56,6 +60,7 @@ figure {
         font-size: ceil(($font-size-base * 0.85));
     }
 }
+
 
 
 // footer

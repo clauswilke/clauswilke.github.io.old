@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<ul class="list-unstyled">
+ {% for post in paginator.posts %}
+   <li>
+    <h2 class="post-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.heading }}</a></h2>
+    
+    <p  class="post-date">
+      <em>{{ post.date | date: "%b %-d, %Y" }} in 
+        {% for cat in post.categories %}
+          {{ cat }}
+        {% endfor %}
+      </em>
+    </p>
+    
+    {{ post.excerpt }}
+
+     <a href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+
+    </li>
+  {% endfor %}
+</ul>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pagination pagination-sm">
+  {% if paginator.previous_page %}
+    <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-hand-o-left"></i></a></li>
+  {% else %}
+    <li class="disabled"><a href="#"><i class="fa fa-hand-o-left"></i></a></li>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <li class="active"><a href="#">{{ page }}</a></li>
+    {% elsif page == 1 %}
+      <li><a href="{{ '/blog/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+    {% else %}
+      <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+    {% endif %}
+  {% endfor %}
+ 
+  {% if paginator.next_page %}
+    <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-hand-o-right"></i></a></li>
+  {% else %}
+    <li class="disabled"><a href="#"><i class="fa fa-hand-o-right"></i></a></li>
+  {% endif %}
+</ul>
+{% endif %}

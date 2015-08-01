@@ -32,8 +32,8 @@ $gray:                   lighten($gray-base, 33.5%); // #555
 $gray-light:             lighten($gray-base, 46.7%); // #777
 $gray-lighter:           lighten($gray-base, 93.5%); // #eee
 
-// not yet modified from default bootstrap
-$brand-primary:         darken(#428bca, 6.5%); // #337ab7
+$brand-primary:         darken(#2c36c3, 20%); 
+// not modified from default bootstrap
 $brand-success:         #5cb85c;
 $brand-info:            #5bc0de;
 $brand-warning:         #f0ad4e;
@@ -53,7 +53,7 @@ $link-hover-color:      darken($link-color, 15%);
 $link-hover-decoration: none;
 
 // color for headings
-$heading-color:         darken($link-color, 25%);
+$heading-color:         $brand-primary;
 
 // footer background
 $footer-bg: lighten($gray-base, 25%);
@@ -79,5 +79,26 @@ $navbar-default-link-color:                $gray;
 $navbar-default-link-hover-color:          $link-hover-color;
 $navbar-default-link-active-color:         $navbar-default-color;
 $navbar-default-link-active-bg:            $navbar-default-bg;
+    
+//
+//   Pagination
+//
+$pagination-color:                     $link-color;
+$pagination-bg:                        $body-bg;
+$pagination-border:                    $body-bg;
+    
+$pagination-hover-color:               $link-hover-color;
+$pagination-hover-bg:                  $gray-lighter;
+$pagination-hover-border:              $pagination-hover-bg;
+
+$pagination-active-color:              $body-bg;
+$pagination-active-bg:                 $brand-primary;
+$pagination-active-border:             $pagination-active-bg;
+
+$pagination-disabled-color:            $gray-light;
+$pagination-disabled-bg:               $body-bg;
+$pagination-disabled-border:           $pagination-disabled-bg;
+
+    
     
 @import "bootstrap/variables";
