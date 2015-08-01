@@ -1,0 +1,23 @@
+---
+layout: default
+permalink: /blog/
+---
+
+<ul class="list-unstyled">
+ {% for post in site.posts %}
+   <li>
+    <h2>{{ post.heading }}</h2>
+    
+    <em>{{ post.date | date: "%b %-d, %Y" }} in 
+      {% for cat in post.categories %}
+        {{ cat }}
+      {% endfor %}
+    </em>
+    
+    {{ post.excerpt }}
+
+     <a href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+
+    </li>
+  {% endfor %}
+</ul>

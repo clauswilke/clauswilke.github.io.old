@@ -2,20 +2,40 @@
 layout: default
 ---
 
-<div>
+I blog on a variety of topics, including professional development, scientific writing, and health and fitness. Below are a few select articles you might find interesting. To read my latest posts, visit <a href="/blog">my blog.</a> To read posts on specific topics, head over to <a href="/virtualbooks">virtual books.</a> To see a complete list of all blog posts ever written, visit <a href="/toc">the table of contents.</a>
 
-  <h1>Posts</h1>
+<div class="row">
+  <div class="col-md-4">
+  <h2>Professional Development</h2>
 
   <ul>
-    {% for post in site.posts %}
-      <li>
-        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+    <li> <a href="/blog/2013/9/10/how-good-is-good-enough">How good is good enough?</a>
+    <li> <a href="/blog/2013/9/6/from-undergraduate-to-faculty-member-critical-decision-points-in-the-academic-career">Critical decision points in the academic career</a>
+    <li> <a href="/blog/2013/9/10/should-you-list-a-paper-in-review-or-in-preparation-on-your-cv">Should you list on your cv a paper that is in review?</a> 
   </ul>
+  </div>
 
-</div>
+  <div class="col-md-4">
+  <h2>Scientific Writing</h2>
+
+  <ul>
+    <li> <a href="/blog/2013/8/26/when-should-you-stop-doing-science-and-start-writing-a-paper">When should you start writing a paper?</a>
+    <li> <a href="/blog/2013/8/29/writing-a-scientific-paper-in-four-easy-steps">Writing a scientific paper in four easy steps</a>
+    <li> <a href="/blog/2013/9/18/its-easier-to-write-when-you-know-what-you-want-to-say">Know what you want to say</a>
+    <li> <a href="/blog/2013/9/22/silence-your-inner-critic">Silence your inner critic</a>
+  </ul>
+  </div>
+
+  <div class="col-md-4">
+  <h2>Health and Fitness</h2>
+
+  <ul>
+    <li> <a href="/blog/2013/9/13/do-we-know-anything-about-nutrition">Do we know anything about nutrition?</a>
+    <li> <a href="/blog/2013/9/4/a-year-without-breakfast">A year without breakfast</a>
+    <li> <a href="/blog/2013/8/25/the-great-weight-loss-mystery">The great weight-loss mystery</a>
+    <li> <a href="/blog/2013/10/1/why-i-lift-weights-and-so-should-you">Why I lift weights</a>
+  </ul>
+  </div>
+
+</div> <!-- row -->
+</div> <!-- container -->

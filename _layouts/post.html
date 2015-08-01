@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-<div>
-
-<h1>{{ page.title }}</h1>
+<h1>{{ page.heading }}</h1>
    
-<p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+<p><em>{{ page.date | date: "%b %-d, %Y" }}  in 
+      {% for cat in page.categories %}
+        {{ cat }}
+      {% endfor %}</em></p>
 
 {{ content }}
-
-</div>

@@ -1,10 +1,11 @@
 # Site settings
-title: Jekyll test site
+title: The Serial Mentor
 description: > # this means to ignore newlines until "baseurl:"
   A site currently under construction.
 baseurl: "" # the subpath of the site, e.g. /blog/
 url: "http://clauswilke.github.io" # the base hostname & protocol
 permalink: /blog/:year/:i_month/:i_day/:title
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
