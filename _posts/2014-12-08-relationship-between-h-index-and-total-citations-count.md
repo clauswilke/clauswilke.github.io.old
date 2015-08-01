@@ -17,9 +17,7 @@ The argument of the paper goes as follows: Let’s consider all the possible way
 
 I wanted to know to what extent this formula worked in a different field. So I tested it on the members of my department. For each faculty member [[3]](#note3) of the Department of Integrative Biology, I obtained their total number of citations and their $$h$$ index from Google Scholar, and then I plotted the observed $$h$$ against the predicted $$h$$ using Yong’s formula (Figure 1). As you can see, the formula works remarkably well. Almost everybody falls right on top of the line. Importantly, this sample covers a wide range of different career stages.
 
-<img src="/assets/images/posts/observed_v_predicted_h.png" class="img-responsive" alt="Observed vs. predicted h for 29 faculty members in Integrative Biology.">
-
-**Figure 1: Observed vs. predicted $$h$$ for 29 faculty members in Integrative Biology.** Members of the National Academy are plotted in red.
+{% include figure.html url="/assets/images/posts/observed_v_predicted_h.png" title="Figure 1: Observed vs. predicted h for 29 faculty members in Integrative Biology." caption="Members of the National Academy are plotted in red." %}
 
 Three faculty members are plotted in red in the figure: those are members of the National Academy, and they are the highest-cited scientists in the department. Interestingly, two have very high total citation counts but, in comparison, not that high of an $$h$$ index, while one has the highest overall $$h$$ index with comparatively fewer citations. The former two both have written famous books, and many of their citations are to these books. By contrast, the latter scientist stands out by having published a particularly large number of articles that all have been well cited. In fact, that scientist is performing slightly better than the $$h = 0.54 \times N_\text{tot}^{1/2}$$ prediction, a truly remarkable result at that high of a total citation count.
 
