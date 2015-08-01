@@ -6,13 +6,15 @@ permalink: /blog/
 <ul class="list-unstyled">
  {% for post in site.posts %}
    <li>
-    <h2>{{ post.heading }}</h2>
+    <h2 class="post-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.heading }}</a></h2>
     
-    <em>{{ post.date | date: "%b %-d, %Y" }} in 
-      {% for cat in post.categories %}
-        {{ cat }}
-      {% endfor %}
-    </em>
+    <p  class="post-date">
+      <em>{{ post.date | date: "%b %-d, %Y" }} in 
+        {% for cat in post.categories %}
+          {{ cat }}
+        {% endfor %}
+      </em>
+    </p>
     
     {{ post.excerpt }}
 

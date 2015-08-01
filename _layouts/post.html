@@ -1,19 +1,30 @@
 ---
 layout: default
 ---
-<h1>{{ page.heading }}</h1>
+<h1 class="post-heading">{{ page.heading }}</h1>
    
-<p><em>{{ page.date | date: "%b %-d, %Y" }}  in 
+<p class="post-date"><em>{{ page.date | date: "%b %-d, %Y" }}  in 
       {% for cat in page.categories %}
         {{ cat }}
       {% endfor %}</em></p>
 
 {{ content }}
 
-<!-- Make sure blog is shown as active -->
-<script>
-  $(document).ready(function() {
-        $('a[href="/blog/"]').parent().addClass('active');
-    });
-</script>
+{% if page.next %}
+<div class="next-page">
+  <a href="{{ page.next.url }}">
+    <i class="fa fa-hand-o-left"></i> {{ page.next.heading }}
+  </a>
+</div>
+{% endif %}
+
+
+{% if page.previous %}
+<div class="previous-page text-right">
+  <a href="{{ page.previous.url }}">
+    {{ page.previous.heading }} <i class="fa fa-hand-o-right"></i>
+  </a>
+</div>
+{% endif %}
+
 

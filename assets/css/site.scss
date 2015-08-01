@@ -9,6 +9,39 @@
     "syntax"
 ;
 
+// headings
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $font-family-sans-serif;
+    color: $heading-color;
+}
+
+// posts
+
+.post-heading{
+    margin-bottom: 0;
+ 
+    a:hover, a:link, a:visited {
+        color: $heading-color; // When headings are links, do not change color
+    }
+}
+
+.post-date {
+    color: $text-color-light;
+}
+
+// nav bar
+
+.navbar-nav {
+    font-family: $font-family-sans-serif;
+    font-size: $font-size-base;
+}
+
+// maybe at some point we want to pick distinct font for this
+.navbar-brand {
+    font-family: "Cabin Condensed", $font-family-sans-serif;
+}
+
 // figures
 figure {
     @include make-row();
@@ -24,16 +57,20 @@ figure {
     }
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: $font-family-sans-serif;
-    color: darken($link-color, 25%);
-}
 
-.nav {
-    font-family: $font-family-sans-serif;
-}
-
-// maybe at some point we want to pick distinct font for this
-.navbar-brand{
-    font-family: "Cabin Condensed", $font-family-sans-serif;
+// footer
+footer {
+    background-color: $footer-bg;
+    color: $footer-text-color;
+    padding-bottom: 20ex;
+    padding-top: 2ex;
+    margin-top: 2ex;
+    
+    a:link, a:visited {
+        color: $footer-link-color;
+    }
+    
+    a:hover {
+        color: $footer-link-hover-color;
+    }
 }
