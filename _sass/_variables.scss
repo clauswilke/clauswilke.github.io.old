@@ -2,13 +2,18 @@
 //   Fonts
 //
 
+// we are using a sans font for serif as well
+$font-family-sans-serif:  "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-serif:       "Crimson Text", Georgia, "Times New Roman", Times, serif;
+$font-family-base:        $font-family-serif;
+
 // default font size
 $font-size-base: 17px;
 
 // font sizes for headings defined relatively,
 // to allow for responsive font-size change
 $font-size-h1:            1.7em;
-$font-size-h2:            1.4em; 
+$font-size-h2:            1.2em; 
 $font-size-h3:            1em;
 $font-size-h4:            1em;
 
