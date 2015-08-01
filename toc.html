@@ -1,0 +1,16 @@
+---
+layout: default
+permalink: /toc/
+---
+
+<p>This is a list of all blog posts ever posted, in reverse chronological order.</p>
+
+<ul class="list-unstyled">
+ {% for post in site.posts %}
+   <li>
+   {{ forloop.length | minus:forloop.index | plus:1 }}.
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.heading }}</a>
+    ({{ post.date | date: "%m/%d/%Y" }})
+   </li>
+  {% endfor %}
+</ul>

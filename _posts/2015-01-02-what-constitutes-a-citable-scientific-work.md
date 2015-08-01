@@ -1,0 +1,60 @@
+---
+layout: post
+title: what-constitutes-a-citable-scientific-work
+heading: "What constitutes a citable scientific work?"
+date:   2015-01-02
+categories: science
+Tags:
+    - peer review
+    - preprints
+    - pre-publication review
+    - journal articles
+---
+There was a lively discussion on Twitter the other day regarding what constitutes a citable piece of scientific work. In particular, Matthew Hahn was concerned about where to draw the line, and he felt that unless something is traditionally published there’s [no need to cite it.](https://twitter.com/3rdreviewer/status/549365313331290112) When reading this dicussion, I felt it was muddled by the lack of clear criteria separating citable works from other forms of scientific communication. In my mind, there is a clear distinction between preprints, which I consider to be citable works, and presentation slides or tweets, which are not. To formalize this distinction, I would like to propose four conditions that need to be satisfied for a document to be considered a citable piece of scientific work. The document needs to be: (i) uniquely and unambiguously citable; (ii) available in perpetuity, in unchanged form; (iii) accessible to the public; (iv) self-contained and complete.
+
+<!--more-->
+
+## 1. Uniquely and unambiguously citable
+It must be possible to uniquely and unambiguously refer to the particular work in question. This condition may seem trivial, but that’s not necessarily the case. For example, during the aforementioned Twitter conversation, Matthew Hahn brought up the case where somebody might [tweet an entire paper or talk.](https://twitter.com/3rdreviewer/status/549381166722469888) Such a series of tweets would not be unambigously citable: One can cite an individual tweet but not a collection of tweets. While one could cite the first tweet in a series, assuming subsequent tweets were posted as replies, it would still remain ambiguous which specific tweets should be considered to comprise the entirety of the work. What if other users replied to the first tweet as well? And what if the original author then responded to them? The very nature of Twitter is such that the unique, citable unit is a single tweet, 140 characters or less, and that is not sufficient to convey a self-contained and complete scientific work. (Note that tweets also fail condition 2, since they can be deleted.)
+
+## 2. Available in perpetuity, in unchanged form
+There needs to be some guarantee that the referenced document will not change and will be available in perpetuity. While nothing is truly forever, and works tend to get lost over time, documents hosted according to industry standards by large and established non-profit or for-profit publishing operations are not likely to disappear any time soon. This certainly includes documents posted on the preprint server [arxiv.org,](http://arxiv.org/) and probably also on the [biorxiv](http://biorxiv.org/) server. Moreover, professional publishing operations generally do not allow changes to once-published documents, though they may allow for the publication of updates or revised article versions.
+
+Importantly, most privately hosted web sites and blogs do not satisfy this requirement [1]. If I stop paying my web-hosting bill, this blog will disappear rather quickly. Similarly, any day I could decide that I didn’t like a particular post and rewrite or delete it, or I could delete the entire blog. And the same is true for institutionally hosted pages or lab web pages. Only those publishing platforms that are built with the express purpose of allowing perpetual access provide some amount of certainty that documents won’t just disappear or change.
+
+## 3. Accessible to the public
+The document needs to be accessible to the public. This condition doesn’t necessarily require that access be free (though I personally would prefer it to be this way), since we have traditionally accepted that certain scientific works are only available after payment of a fee. However, anybody willing to pay the fee must be able to access the work, without any other conditions imposed. Also, libraries must be allowed to carry the work, and any library patrons must be able to peruse the work for free.
+
+The point of this condition is to exclude internal technical documents of companies or other organizations, in particular, documents that might require signing a non-disclosure agreement. Such documents may be useful but they do not belong into the scientific record.
+
+## 4. Self-contained and complete
+
+The document needs to be self-contained and complete. In other words, whatever the novel contribution is of a given piece of work, that contribution needs to be fully and clearly explained within the document. Many forms of scientific communication violate this condition. Consider for example the slides of a scientific presentation. They are meant merely as support to the oral presentation, and usually they cannot be fully understood without the accompanying talk. Now, if one wanted to, one could certainly write slides that are self-contained and complete. However, those slides would make for a poor talk and also would be nothing more than an awkwardly formatted preprint.
+
+Even if a recording of the talk is provided alongside the slides, the completeness condition will usually remain violated. For example, methodological details are frequently glossed over in presentations, as are parts of mathematical derivations in theoretical talks. However, this doesn’t mean that only written works can be scientific documents. For example, the [Journal of Visualized Experiments (JoVE)](http://www.jove.com/) publishes self-contained and complete video articles.
+
+## But if it hasn’t been reviewed?
+
+I am a strong proponent of pre-publication review. [I have said so before.](http://serialmentor.com/blog/2013/12/21/the-value-of-pre-publication-peer-review) At the same time, I am wary of what I’d like to call “the review fetish,” the attitude that scientific works can't be trusted until they have been reviewed, at which point they become valid contributions to the scientific literature. Whether something has been reviewed has no bearing on its validity. A work is valid or it is not, period. We all know that flawed works pass peer review and valid works get rejected. In fact, the most influential and highly cited articles often get rejected initially [2]. As working scientists, we need to personally judge the validity of each and every article we read, regardless of the article’s origin or review status.
+
+Also, the only logical reason to require citable works to be peer reviewed would be as a means of quality control, so that bad science doesn’t get cited. However, it then immediately follows that we would have to assess the quality of peer review at each journal. What if some journals carry out sub-standard review and basically print everything? Should they be put on a blacklist of journals we can’t cite? What about contributed papers to PNAS, many of which likely haven’t received the same kind of scrutiny as articles that get edited by independent third parties? What about journals that employ professional editors, who may make decisions that aren’t always entirely driven by scientific considerations? Should we put those journals on the blacklist? In my mind, insisting on peer review for quality control reasons opens a can of worms that simply can’t be dealt with in any reasonable manner.
+
+Further, while the current scientific culture expects that we submit all our articles to journals for review, I think scientists should be allowed to choose not to be subjected to this process. If some scientists prefer to skip peer review and simply post their work on a preprint server, it should be their prerogative to do so. And we should take their work seriously as long as it is worthwhile and of high quality. Clearly mathematicians do so. Consider the case of [Grigori Perelman,](http://en.wikipedia.org/wiki/Grigori_Perelman) who was awarded a Fields Medal, the highest honor bestowed upon mathematicians, for work he had posted on a preprint server but never formally published.
+
+Finally, I would like to point out that there are document types that have traditionally been considered part of the scholarly literature, such as monographs or dissertations, that are not necessarily reviewed. [Journals that forbid citations to preprints](http://haldanessieve.org/2013/08/26/thoughts-on-mbes-preprint-citation-policy/) do not usually impose similar restrictions on the citation of books or theses.
+
+## Concluding thoughts
+
+With the four conditions I have outlined, we can easily test whether specific documents or works should be considered to be citable resources or not. Strings of tweets clearly fail the test, as do slides, recordings of talks, posters, tweets of photos of posters, or blog posts. Documents that pass the test are articles in traditional print journals, articles in most professionally operated online journals, books, book chapters, dissertations, and preprints deposited on professionally operated preprint servers. Interestingly, websites hosting scientific software will usually fail at least conditions 2 and 3, and thus would not be citable by my criteria. In fact, it is my opinion that scientific software should always be accompanied by an article introducing and explaining the software, and what we should cite is the article, not the website where the software is housed. 
+
+Importantly, I can think of no principled test that would cleanly separate preprints from the rest of the scientific literature. The only such test I can think of is “has it been posted on a preprint server,” but it would be difficult to provide a logical reason for why this test should be applied to determine the citability of a document [3], other than personal preference. I might just as well not cite articles published in journals that don’t use at least 3 reviewers, or in journals where editorial decisions are made by professional editors and not by working scientists, or in journals that typeset their articles in a sans-serif font.
+
+**Update 01/02/2015:** Rafael Najmanovich [suggested an additional condition:](https://twitter.com/RNajmanovich/status/551155998350901248) Attributable authorship. It should be clear who has written a specific document. While I agree with this condition in principle, I'm not sure yet whether I would go so far as arguing that anonymous documents should never be cited. If a document is anonymous but otherwise a valid contribution to science, should we ignore it? Probably not.
+
+## Notes
+
+[1] Klein et al. (2014) Scholarly context not found: One in five articles suffers from reference rot. PLoS ONE 9: e115253. [doi:10.1371/journal.pone.0115253](http://dx.doi.org/10.1371/journal.pone.0115253)
+
+[2] Siler et al. (2014) Measuring the effectiveness of scientific gatekeeping. PNAS, in press. [doi:10.1073/pnas.1418218112](http://dx.doi.org/10.1073/pnas.1418218112)
+
+[3] Keep in mind that this entire post is about the conditions that make a document a *citable* contribution to the scientific literature. This is different from the question of whether a document is a preprint or a formally published article. The main services that journals provide are (i) quality control, in the form of editorial and peer review, (ii) prestige, in proportion to how selective they are, and (iii) professional typesetting, though the quality of this service has declined in recent years. In return, journals demand exclusivity. Thus, it is natural for a journal to determine whether a document has been previously published by asking whether the document has previously undergone editorial and peer review and has been professionally typeset. Importantly, when journals make this assessment, they are not concerned with the quality of peer review. Any document that has been reviewed and accepted for publication elsewhere, no matter how low the standards, would violate the exclusivity clause and hence is going to be considered published.
