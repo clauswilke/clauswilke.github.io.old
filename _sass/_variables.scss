@@ -56,10 +56,10 @@ $link-hover-decoration: none;
 $heading-color:         $brand-primary;
 
 // footer background
-$footer-bg: lighten($gray-base, 25%);
-$footer-text-color: lighten($text-color-light, 25%);
-$footer-link-color: lighten($link-color, 35%);
-$footer-link-hover-color: lighten($footer-link-color, 10%);
+$footer-bg: lighten($gray-base, 90%);
+$footer-text-color: lighten($text-color, 20%);
+$footer-link-color: lighten($link-color, 15%);
+$footer-link-hover-color: lighten($footer-link-color, 20%);
 
 
 //
