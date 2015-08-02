@@ -62,6 +62,18 @@ figure {
     }
 }
 
+// Adjusting font size in code blocks
+code {
+    font-size: ceil(($font-size-base * 0.90));
+}
+
+kbd {
+    font-size: ceil(($font-size-base * 0.90));
+}
+
+pre {
+    font-size: ceil(($font-size-base * 0.90));
+}
 
 
 // footer

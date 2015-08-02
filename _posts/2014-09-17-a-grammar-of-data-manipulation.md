@@ -58,16 +58,16 @@ data %>% group_by(homology.type) %>%
         min=min(perc.ident.human),  
         mean=mean(perc.ident.human),  
         std.dev=sd(perc.ident.human),
-        median=median(perc.ident.human),
         max=max(perc.ident.human))
 {% endhighlight %}
 
-    Source: local data frame [3 x 6]
+    Source: local data frame [3 x 5]
     
-           homology.type min     mean  std.dev median max
-    1 ortholog_many2many   1 26.36965 16.37955     22  92
-    2  ortholog_one2many   0 27.46243 15.18146     25  86
-    3   ortholog_one2one   1 33.04183 12.89296     31  80
+           homology.type min     mean  std.dev max
+    1 ortholog_many2many   1 26.36965 16.37955  92
+    2  ortholog_one2many   0 27.46243 15.18146  86
+    3   ortholog_one2one   1 33.04183 12.89296  80
+
 
 The function `group_by()` states that we want to carry out the analysis separately for each homology type, and the function `summarize()` calculates the summary statistics (min, mean, etc.) for each group. The operator `%>%` is a chaining operator, like a pipe in the UNIX command line. It takes the output from the previous operation and feeds it into the subsequence operation. 
 
@@ -77,10 +77,10 @@ Let’s do another example. Let’s say we’re only interested in one-to-one or
 
 
 {% highlight r %}
-data %>% filter(homology.type=='ortholog\_one2one') %>%  
+data %>% filter(homology.type=='ortholog_one2one') %>%  
     select(yeast.gene.ID, human.gene.ID, perc.ident.human) %>%  
     top_n(10) %>%   
-    arrange(desc(perc.ident.human))</code>  
+    arrange(desc(perc.ident.human))
 {% endhighlight %}
 
     Selecting by perc.ident.human  
