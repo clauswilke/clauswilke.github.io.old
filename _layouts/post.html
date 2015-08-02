@@ -5,7 +5,7 @@ layout: default
    
 <p class="post-date"><em>{{ page.date | date: "%b %-d, %Y" }}  in 
       {% for cat in page.categories %}
-        {{ cat }}
+        {{ cat }}{% if forloop.index < forloop.length %},{% endif %}
       {% endfor %}</em></p>
 
 {{ content }}
