@@ -81,13 +81,19 @@ footer {
     }
 }
 
-// adjust font size to screen size
+/* adjust font size to screen size, doesn't really work yet. */
 
+.pagination-responsive {
+    @extend .pagination-sm;
+}
+
+/*
 // medium devices and up
 @media (min-width: $screen-md) {
     html, body, div, p, a {
         font-size: 20px;
     }
+    
 }
 
 @media (min-width: $screen-lg) {
@@ -101,3 +107,4 @@ footer {
         font-size: 26px;
     }
 }
+*/

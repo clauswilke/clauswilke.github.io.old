@@ -24,7 +24,7 @@ layout: default
 </ul>
 
 {% if paginator.total_pages > 1 %}
-<ul class="pagination pagination-sm">
+<ul class="pagination pagination-responsive">
   {% if paginator.previous_page %}
     <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="fa fa-hand-o-left"></i></a></li>
   {% else %}
