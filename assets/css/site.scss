@@ -39,6 +39,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-brand {
     font-family: "Cabin Condensed", $font-family-sans-serif;
+    font-size: $font-size-h1;
 }
 
 a.navbar-brand:link, a.navbar-brand:visited {
@@ -93,10 +94,10 @@ footer {
     html, body, div, p, a {
         font-size: 24px;
     }
-    h1 {
+    h1, .navbar-brand {
         font-size: 34px;
     }
-    h2, .navbar-nav, .navbar-brand {
+    h2, .navbar-nav {
         font-size: 26px;
     }
 }
