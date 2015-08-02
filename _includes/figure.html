@@ -1,7 +1,9 @@
 <figure>
   <div class="figure-body">
     <a id="{{ include.id }}"></a>
-    <img class="img-responsive" src="{{ include.url }}" alt="{{ include.title }}"/>
+    <a href="{{ include.url }}">
+      <img class="img-responsive" src="{{ include.url }}" alt="{{ include.title }}"/>
+    </a>
   </div>
   <div class="figure-caption">
     <strong>{{ include.title }}</strong>
