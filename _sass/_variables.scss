@@ -7,15 +7,15 @@ $font-family-sans-serif:  "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-
 $font-family-serif:       "Crimson Text", Georgia, "Times New Roman", Times, serif;
 $font-family-base:        $font-family-serif;
 
-// default font size
+// we set the font size in the root element, via media query in the site css
 $font-size-base: 17px;
 
 // font sizes for headings defined relatively,
 // to allow for responsive font-size change
-$font-size-h1:            1.7em;
-$font-size-h2:            1.2em; 
-$font-size-h3:            1em;
-$font-size-h4:            1em;
+$font-size-h1:            floor((1.7 * $font-size-base));
+$font-size-h2:            floor((1.2 * $font-size-base)); 
+$font-size-h3:            $font-size-base;
+$font-size-h4:            $font-size-base;
 
 // blockquotes should have the same font size as the rest of the text
 $blockquote-font-size: $font-size-base;

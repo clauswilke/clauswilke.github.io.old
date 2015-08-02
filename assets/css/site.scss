@@ -79,3 +79,24 @@ footer {
         color: $footer-link-hover-color;
     }
 }
+
+// adjust font size to screen size
+
+// medium devices and up
+@media (min-width: $screen-md) {
+    html, body, div, p, a {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: $screen-lg) {
+    html, body, div, p, a {
+        font-size: 24px;
+    }
+    h1 {
+        font-size: 34px;
+    }
+    h2, .navbar-nav {
+        font-size: 26px;
+    }
+}
