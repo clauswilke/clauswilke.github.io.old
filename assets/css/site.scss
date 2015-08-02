@@ -58,7 +58,7 @@ figure {
     .figure-caption {
         @include make-sm-column(4);
         
-        font-size: ceil(($font-size-base * 0.85));
+        font-size: $font-size-caption;
     }
 }
 
@@ -94,6 +94,10 @@ figure {
 
 .width-50 {
     width: 50%
+}
+
+.caption-text {
+    font-size: $font-size-caption;
 }
 
 

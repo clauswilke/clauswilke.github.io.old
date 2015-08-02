@@ -18,6 +18,8 @@ $font-size-h2:            floor((1.2 * $font-size-base));
 $font-size-h3:            $font-size-base;
 $font-size-h4:            $font-size-base;
 
+$font-size-caption:       ceil(($font-size-base * 0.85));
+
 // blockquotes should have the same font size as the rest of the text
 $blockquote-font-size: $font-size-base;
 

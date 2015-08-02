@@ -16,7 +16,7 @@ tags:
 I was pointed to this [infographic on superfoods,](http://www.informationisbeautiful.net/visualizations/snake-oil-superfoods/) which aims at summarizing the scientific information we have about the health benefits of specific foods. It ranks health claims about specific foods by the strength of scientific evidence for the claim, and provides direct links to the relevant studies. The first thing you’ll notice if you look at it is that most claims fall well below promising. However, there are a few that are listed as good or strong. Since I’m somewhat of a nutrition geek, I of course went immediately and looked at the claims that are supposed to be the strongest. I was dismayed to find that of the four claims listed as very strong, at least two are rather dubious. Those two are barley and oats. (I stopped reading after that. The other two may well be dubious as well.)
 
 <!--more-->
-{% include wrapimage.html url="/assets/images/posts/2013-09-13-superfoods.jpg" options="float-right width-40" note="<a href='http://www.informationisbeautiful.net/visualizations/snake-oil-superfoods/'>Interactive superfoods infographic</a>" %}
+{% include wrapimage.html url="/assets/images/posts/2013-09-13-superfoods.jpg" options="float-right width-40" note="<a href='http://www.informationisbeautiful.net/visualizations/snake-oil-superfoods/'>Interactive superfoods infographic</a> from <a href='http://informationisbeautiful.net'>informationisbeautiful.net</a>" %}
 
 There are two issues with those two claims: First, there is no credible health claim. Second, regardless of the validity of the claim itself, the claim is not well supported by evidence. Let’s consider these two pieces in turn.
 
