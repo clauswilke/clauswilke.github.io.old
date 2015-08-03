@@ -12,13 +12,13 @@
 // main page design
 
 .wrapper {
-    .make-row();
+    @include make-row();
 }
 
 .content-main {
-    .make-sm-column(12);
-    .make-md-column(9);
-    .make-md-offset(1);
+    @include make-sm-column(12);
+    @include make-md-column(9);
+    @include make-md-offset(1);
 }
 
 
