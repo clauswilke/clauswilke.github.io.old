@@ -1,8 +1,7 @@
 ---
 layout: default
 # for disqus comments, set to false to disable, can also be done for individual posts 
-disqus-comments: true
-muut-comments: false
+comments: true
 ---
 <div class="wrapper">
 <div class="content-main">
@@ -38,7 +37,7 @@ muut-comments: false
 
 <!-- **** Disqus **** -->
 
-{% if page.disqus-comments %}
+{% if page.comments %}
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -60,18 +59,6 @@ muut-comments: false
 {% endif %}
 
 <!-- **** end Disqus **** -->
-
-
-<!-- **** Muut **** -->
-
-{% if page.muut-comments %}
-
-<a class="muut" href="https://muut.com/i/serialmentor">serialmentor forum</a>
-<script src="//cdn.muut.com/1/moot.min.js"></script>
-
-{% endif %}
-
-<!-- **** end Muut **** -->
 
 </div> <!-- content-main -->
 </div> <!-- wrapper -->
