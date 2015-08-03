@@ -18,7 +18,7 @@
 .content-main {
     @include make-sm-column(12);
     @include make-md-column(9);
-    @include make-md-offset(1);
+    @include make-md-column-offset(1);
 }
 
 
