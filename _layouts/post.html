@@ -1,5 +1,7 @@
 ---
 layout: default
+# for disqus comments, set to false to disable, can also be done for individual posts 
+comments: false
 ---
 <div class="wrapper">
 <div class="content-main">
@@ -30,5 +32,34 @@ layout: default
 </div>
 {% endif %}
 
+<div class="col-xs-12" style="height:50px;"></div>
+
+
+<!-- **** Disqus **** -->
+
+{% if page.comments %}
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'serialmentor';
+    var disqus_identifier = '{{ page.url }}';
+    var disqus_title = '{{ page.heading }}';
+    var disqus_url = 'http://serialmentor.com{{ page.url }}';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+{% endif %}
+
+<!-- **** end Disqus **** -->
+
 </div> <!-- content-main -->
 </div> <!-- wrapper -->
+
