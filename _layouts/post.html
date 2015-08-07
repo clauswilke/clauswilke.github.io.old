@@ -39,15 +39,29 @@ comments: true
 <!-- social media buttons -->
 
 <!-- Twitter -->
-<a href="http://twitter.com/intent/tweet/?text={{ page.heading }}&url={{ page.url | prepend: site.url }}&via=ClausWilke" title="Share on Twitter" target="_blank" class="btn btn-twitter"><i class="fa fa-twitter"></i> Twitter</a>
+<a href="http://twitter.com/intent/tweet/?text={{ page.heading }}&url={{ page.url | prepend: site.url }}&via=ClausWilke" title="Share on Twitter" target="_blank" class="btn-social btn-twitter">
+  <span class="fa-stack fa-lg">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+  </span></a>
  <!-- Facebook -->
-<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url }}" title="Share on Facebook" target="_blank" class="btn btn-facebook"><i class="fa fa-facebook"></i> Facebook</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url }}" title="Share on Facebook" target="_blank" class="btn-social btn-facebook">
+  <span class="fa-stack fa-lg">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+  </span></a>
 <!-- Google+ -->
-<a href="https://plus.google.com/share?url={{ page.url | prepend: site.url }}" title="Share on Google+" target="_blank" class="btn btn-googleplus"><i class="fa fa-google-plus"></i> Google+</a>
-<!-- Reddit -->
-<a href="http://reddit.com/submit?url={{ page.url | prepend: site.url }}&title={{ page.heading }}" title="Share on Reddit" target="_blank" class="btn btn-reddit"><i class="fa fa-reddit"></i> Reddit</a>
+<a href="https://plus.google.com/share?url={{ page.url | prepend: site.url }}" title="Share on Google+" target="_blank" class="btn-social btn-google-plus">  <span class="fa-stack fa-lg">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+  </span></a>
 <!-- LinkedIn --> 
-<a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url }}&title={{ page.heading }}" title="Share on LinkedIn" target="_blank" class="btn btn-linkedin"><i class="fa fa-linkedin"></i> LinkedIn</a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.url }}&title={{ page.heading }}" title="Share on LinkedIn" target="_blank" class="btn-social btn-linkedin">
+  <span class="fa-stack fa-lg">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+  </span></a>
+
 
 <!-- **** Disqus **** -->
 
