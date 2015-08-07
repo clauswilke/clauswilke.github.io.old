@@ -211,6 +211,19 @@ footer {
     background: #ba3225;
     color: #fff
 }
+.btn-reddit {
+    background: #336699;
+    border-radius: 0;
+    color: #fff
+}
+.btn-reddit:link, .btn-reddit:visited {
+    color: #fff
+}
+.btn-reddit:active, .btn-reddit:hover {
+    background: darken(#336699, 5%);
+    color: #fff
+}
+
 .btn-linkedin {
     background: #0e76a8;
     border-radius: 0;
