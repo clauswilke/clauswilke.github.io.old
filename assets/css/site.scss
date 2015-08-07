@@ -187,11 +187,14 @@ $brand-color-twitter: #00acee;
     color: $brand-color-twitter;
 }
 .btn-twitter:active, .btn-twitter:hover {
-    color: #fff;
+//    color: #fff;
+    color: lighten($brand-color-twitter, 10%);
 }
+/*
 .fa-twitter.fa-inverse:hover{
     color: $brand-color-twitter;
 }
+*/
 
 $brand-color-facebook: #3b5998;
 .btn-facebook {
@@ -203,11 +206,14 @@ $brand-color-facebook: #3b5998;
     color: $brand-color-facebook;
 }
 .btn-facebook:active, .btn-facebook:hover {
-    color: #fff;
+//    color: #fff;
+    color: lighten($brand-color-facebook, 7%);
 }
+/*
 .fa-facebook.fa-inverse:hover{
     color: $brand-color-facebook;
 }
+*/
 
 $brand-color-google-plus: #e93f2e;
 .btn-google-plus {
@@ -219,11 +225,14 @@ $brand-color-google-plus: #e93f2e;
     color: $brand-color-google-plus;
 }
 .btn-google-plus:active, .btn-google-plus:hover {
-    color: #fff;
+//    color: #fff;
+    color: lighten($brand-color-google-plus, 7%);
 }
+/*
 .fa-google-plus.fa-inverse:hover{
     color: $brand-color-google-plus;
 }
+*/
 
 $brand-color-linkedin: #0e76a8;
 .btn-linkedin {
@@ -235,11 +244,14 @@ $brand-color-linkedin: #0e76a8;
     color: $brand-color-linkedin;
 }
 .btn-linkedin:active, .btn-linkedin:hover {
-    color: #fff;
+//    color: #fff;
+    color: lighten($brand-color-linkedin, 10%);
 }
+/*
 .fa-linkedin.fa-inverse:hover{
     color: $brand-color-linkedin;
 }
+*/
 
 /* adjust font size to screen size, doesn't really work yet. */
 
