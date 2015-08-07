@@ -3,7 +3,7 @@ title: The Serial Mentor
 description: > # this means to ignore newlines until "baseurl:"
   Science, Writing, Fitness, Nutrition, Professional Development
 baseurl: "" # the subpath of the site, e.g. /blog/
-url: "http://clauswilke.github.io" # the base hostname & protocol
+url: "http://serialmentor.com" # the base hostname & protocol
 permalink: /blog/:year/:i_month/:i_day/:title
 excerpt_separator: <!--more-->
 paginate: 12
