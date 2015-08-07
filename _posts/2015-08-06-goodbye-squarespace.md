@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  goodby-squarespace
-heading: "Goodby Squarespace, Hello Github"
+title:  goodbye-squarespace
+heading: "Goodbye Squarespace, Hello Github"
 date:   2015-08-06
 categories: misc
 ---
