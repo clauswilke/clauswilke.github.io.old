@@ -13,8 +13,9 @@ As described here: http://veithen.github.io/2015/03/26/jekyll-bootstrap.html
 3. Create a basic stylesheet (e.g. `assets/css/site.scss`) as follows:  
 ```
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
-    
+# ... customize bootstrap variables
 @import "bootstrap";
 ```
 All variable definitions etc. need to be made before the final `@import "boostrap";` line.
