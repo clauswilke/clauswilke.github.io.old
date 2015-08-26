@@ -23,7 +23,7 @@ So what can we do to avoid this style? A set of five simple editing guidelines p
 4. Read the passage aloud—does it flow?
 5. Vary the sentence length.
 
-By following these guidelines, anyone can turn a dry, official-sounding document into much more engaging prose. I have based these guidelines loosely on those presented in Lanham's book [[1]](#note1), though none of them are particularly novel for experienced copy writers or editors.
+By following these guidelines, anyone can turn a dry, official-sounding document into a much more engaging piece of text. I have based these guidelines loosely on those presented in Lanham's book [[1]](#note1), though none of them are particularly novel for experienced copy writers or editors.
 
 ## 1. Locate prepositions and *is* forms
 
@@ -31,7 +31,7 @@ The official style makes heavy use of long strings of prepositional phrases. Pre
 
 > The cells **were** lysed **with** 1% Triton X-100 **after** 20 minutes incubation **in** rich media prepared **under** standard conditions **with** continuous stirring **of** the flask.
 
-I am sure you recognize this as a standard sentence you might find in the methods section of any molecular biology paper. If you have read sufficiently many such papers, you may find this sentence clear enough. But is it really? Were the cells incubated or lysed in rich media? Were the cells incubated with continuous stirring of the flask, or was the stirring instead part of the media preparation? Or was maybe the flask stirred during the lysing of the cells? We don't really know. The prepositions cannot precisely convey the relationships of the involved objects.
+I am sure you recognize this as a standard sentence you might find in the methods section of any molecular biology paper. If you have read  many such papers, you may even find this sentence sufficiently clear. But is it really? Were the cells incubated or lysed in rich media? Were the cells incubated with continuous stirring of the flask, or was the stirring instead part of the media preparation? Or was maybe the flask stirred during the lysing of the cells? We don't really know. The prepositions cannot precisely convey the relationships of the involved objects.
 
 The above example contains six prepositions. In general, three prepositions in a row cause problems, and four or more prepositions usually guarantee disaster. As the first order of business, therefore, we shorten and/or remove, as much as possible, any strings of prepositional phrases.
 
@@ -59,7 +59,7 @@ actions. Lots of them. Even the boring sentences in the methods sections of scie
 - to stir
 - to prepare
 
-Yet none of these verbs actually occurred in their active form. Instead they occurred as participles or gerunds, that is, in the form of adjectives or nouns.
+Yet none of these verbs actually occur in their active form in the example sentence. Instead they occur as participles or gerunds, that is, in the form of adjectives or nouns.
 
 Let's consider a second example:
 
