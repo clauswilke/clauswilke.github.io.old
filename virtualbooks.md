@@ -18,6 +18,7 @@ Many of my blog posts can be considered sections in books that I might have writ
 
 ## Chapter 2: Constructing meaningful sentences and paragraphs
 
+1. [Avoiding the official style](/blog/2015/8/26/avoiding-the-official-style/)
 1. [Writing paragraphs that make sense—the topic and the stress position](/blog/2013/9/26/writing-paragraphs-that-make-sensethe-topic-and-the-stress-position)
 2. [Articles!](/blog/2013/10/1/articles)
 3. [To write well, learn how to read](/blog/2013/10/8/to-write-well-learn-how-to-read)
