@@ -15,7 +15,7 @@ To give you a concrete example of this style, consider the following excerpt. It
 
 In this excerpt, we can identify all the major elements of the official style. First, we see extensive use of passive voice, such as "EXON0 is required," "*exon0* is not .&nbsp;.&nbsp;. essential," and "the .&nbsp;.&nbsp;. nucleocapsid transport process can be bypassed." Second, we see long strings of prepositional phrases, as in ".&nbsp;.&nbsp;. required **for** the efficient egress **of** nucleocapsids **from** the nucleus **to** the cytoplasm." Third, we see wordy expressions with little content, as in ".&nbsp;.&nbsp;. suggests that it may play a role in facilitating.&nbsp;.&nbsp;."
 
-So what can we do to avoid this style? A set of five simple editing guidelines provides a handy toolkit for more pleasant, less official-sounding prose: 
+So what can we do to avoid this style? A set of five simple editing guidelines provides a handy toolkit for writing more pleasant, less official-sounding prose: 
 
 1. Locate prepositions and *is* forms.
 2. Identify the action and put it into a simple verb.
