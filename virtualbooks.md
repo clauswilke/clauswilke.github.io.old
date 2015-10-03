@@ -32,9 +32,10 @@ Many of my blog posts can be considered sections in books that I might have writ
 1. [Use fine-grained sectioning in your grant proposals](/blog/2013/10/28/use-fine-grained-sectioning-in-your-grant-proposals)
 
 
-## Chapter 4: Creating professional graphs and figures
+## Chapter 4: Creating professional documents, graphs, and figures
 
-1. [The axis labels are too damn small](/blog/2013/9/10/the-axis-labels-are-too-damn-small)
+1. [How to not mess up your bibliographies with Bibtex](/blog/2015/10/2/Bibtex/)
+2. [The axis labels are too damn small](/blog/2013/9/10/the-axis-labels-are-too-damn-small)
 2. [To grid or not to grid](/blog/2014/10/7/to-grid-or-not-to-grid)
 
 
