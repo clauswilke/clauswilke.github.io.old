@@ -26,7 +26,7 @@ Anybody who would like to encourage more scientists to post preprints should car
 
 * You know that John Smith posted an interesting preprint 2 years ago, and you wonder if that work was ever published. You search Google Scholar and only find the preprint. So you conclude the paper never saw the light of day or maybe is embattled in review. In truth, the paper came out 8 months ago in PNAS, but Google Scholar will hide that version from you.
 
-* You consider hiring a promising young scientist as a postdoc or maybe even a faculty member. However, as you pull up their Google Scholar profile, you notice that over the last two years they seem to have published only preprints. And several of the articles they list in their cv don’t show up in the Scholar database at all. You conclude the scientist is dishonest and you decline their application.
+* You consider hiring a promising young scientist as a postdoc or maybe even a faculty member. However, as you pull up their Google Scholar profile, you notice that over the last two years they seem to have published only preprints. And several of the articles they list on their cv don’t show up in the Scholar database at all. You conclude the scientist is dishonest and you decline the application.
 
 * You post a preprint that contains an error. Thankfully, the error gets noticed in review and you fix it for the final publication (and/or post a new version of the preprint). However, Google Scholar keeps showing the old, erroneous version of the preprint, many months after the fix has been made. People keep reading the erroneous version and keep giving you grief over it.
 
@@ -43,6 +43,6 @@ While this bug may be rare in some sense of the word “rare,” it happens freq
 
 ## Is there a workaround?
 
-Not really. You can add papers manually in your Google Scholar profile, but that won't make them show up in the search results. And they will also not be linked to the actual journal publications, a major drawback in my opinion. If you know of a preprint and are wondering whether it has been published or not, don't check with Scholar. Check with some other data base, such as PubMed. Or just do a regular Google search. The preprint bug does not affect regular Google, and it will find the papers that Google Scholar doesn't know about.
+Not really. You can add papers manually to your Google Scholar profile, but that won't make them show up in the search results. And they will also not be linked to the actual journal publications, a major drawback in my opinion. If you know of a preprint and are wondering whether it has been published or not, don't check with Scholar. Check with some other data base, such as PubMed. Or just do a regular Google search. The preprint bug does not affect regular Google, and it will find the papers that Google Scholar doesn't know about.
  
 I hope that the Google Scholar team will eventually realize that this is an important issue to get right. In the mean time, if you have been bitten by the bug, please let me know, so we can build a record of cases and demonstrate this is an important issue. And, if you're looking for the official publications of long-standing preprints, look for them using regular Google, not Google Scholar.
