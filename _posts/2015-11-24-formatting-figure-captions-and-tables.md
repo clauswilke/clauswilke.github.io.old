@@ -6,7 +6,7 @@ date: 2015-11-24
 categories: 
     - writing
 ---
-Every scientist should know how to properly write and format figure captions and tables, yet this topic is rarely taught properly. We just hope that students and postdocs pick up this skill by osmosis. Yet in my experience, this doesn't necessarily happen or it may take a long time. To speed up this process, I gave a brief lecture on this topic in my graduate class today. Here are the slides I used. I hope you will find them useful. 
+Every scientist should know how to properly write and format figure captions and tables, yet this topic is rarely taught properly. We just hope that students and postdocs pick up this skill by osmosis. However, in my experience, this doesn't necessarily happen or it may take a long time. To speed up this process, I gave a brief lecture on this topic in my graduate class today. Here are the slides I used. I hope you will find them useful. 
 
 <!--more-->
 
