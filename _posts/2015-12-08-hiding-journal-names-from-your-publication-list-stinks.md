@@ -34,7 +34,7 @@ By contrast, if you’re hiding the journal names from your website, this import
 
 To be clear: I have no problems with publishing at venues such as eLife, Genome Research, PLOS Computational Biology, or even Science or Nature. I think that the NIH Open Access mandate solves the majority of the access issues [[2]](#note2). What I have a problem with is publishing in such journals and hiding that fact from your website while blogging about the evils of peer review. As long as you participate in the traditional peer-review system, as author, reviewer, or editor, you should be honest and transparent about where you publish.
 
-There are other reasons why I think hiding journal articles is a bad idea, and I may go into them in a future blog post. For now, I’ll just present to you, without further comment, [this Google Scholar profile.](
+There are other reasons why I think hiding journal names is a bad idea, and I may go into them in a future blog post. For now, I’ll just present to you, without further comment, [this Google Scholar profile.](
 https://scholar.google.com/citations?hl=en&user=GIjz5dMAAAAJ&view_op=list_works&sortby=pubdate) In summary, hide journal names once everybody agrees that they don’t matter, but not one day earlier.
 
 ## Notes
