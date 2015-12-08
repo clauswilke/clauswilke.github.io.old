@@ -39,4 +39,4 @@ https://scholar.google.com/citations?hl=en&user=GIjz5dMAAAAJ&view_op=list_works&
 
 ## Notes
 [1]<a id="note1"></a> I doubt that time will ever come, but let’s assume it will.
-[2]<a id="note2"></a> To the extent possible, I make sure that my own papers get submitted to PubMed Central. The most recent papers [on my publication list](http://wilkelab.org/publications/) may not have PMC numbers yet, because it always takes a while until papers make their way into PubMed Central. Also, for papers for which I’m not the corresponding author, I cannot always ensure that they get submitted to PubMed Central.
+[2]<a id="note2"></a> To the extent possible, I make sure that my own papers get submitted to PubMed Central. The most recent papers [on my publication list](http://wilkelab.org/publications/) may not have PMC numbers yet, because it always takes a while until papers make their way into PubMed Central. Also, for papers for which I’m not the corresponding author, I cannot always ensure that they get submitted there.
