@@ -37,6 +37,8 @@ To be clear: I have no problems with publishing at venues such as eLife, Genome 
 There are other reasons why I think hiding journal names is a bad idea, and I may go into them in a future blog post. For now, I’ll just present to you, without further comment, [this Google Scholar profile.](
 https://scholar.google.com/citations?hl=en&user=GIjz5dMAAAAJ&view_op=list_works&sortby=pubdate) In summary, hide journal names once everybody agrees that they don’t matter, but not one day earlier.
 
+**Update 12/11/2015:** This discussion was featured in a [Nature News article.](http://www.nature.com/news/what-s-in-a-journal-name-1.18987)
+
 ## Notes
 [1]<a id="note1"></a> I doubt that time will ever come, but let’s assume it will.
 [2]<a id="note2"></a> To the extent possible, I make sure that my own papers get submitted to PubMed Central. The most recent papers [on my publication list](http://wilkelab.org/publications/) may not have PMC numbers yet, because it always takes a while until papers make their way into PubMed Central. Also, for papers for which I’m not the corresponding author, I cannot always ensure that they get submitted there.
