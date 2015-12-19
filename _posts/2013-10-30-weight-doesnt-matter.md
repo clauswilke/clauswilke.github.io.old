@@ -1,7 +1,7 @@
 ---
 layout: post
 title: weight-doesnt-matter
-heading: "Weight doesn't matter"
+heading: "Weight doesn’t matter"
 date: 2013-10-30
 categories: 
     - fitness
