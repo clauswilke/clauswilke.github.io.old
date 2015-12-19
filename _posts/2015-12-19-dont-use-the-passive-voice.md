@@ -1,7 +1,7 @@
 ---
 layout: post
 title: dont-use-the-passive-voice
-heading: "Don't use the passive voice?"
+heading: "Don’t use the passive voice?"
 date: 2015-12-19
 categories: 
     - writing
