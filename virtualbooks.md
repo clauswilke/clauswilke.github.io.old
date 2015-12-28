@@ -14,6 +14,7 @@ Many of my blog posts can be considered sections in books that I might have writ
 2. [Silence your inner critic](/blog/2013/9/22/silence-your-inner-critic)
 3. [It’s easier to write when you know what you want to say](/blog/2013/9/18/its-easier-to-write-when-you-know-what-you-want-to-say)
 4. [When should you stop doing science and start writing a paper?](/blog/2013/8/26/when-should-you-stop-doing-science-and-start-writing-a-paper)
+4. [When will that paper be ready?](/blog/2015/12/28/when-will-that-paper-be-ready/)
 5. [No one reads your paper either](/blog/2013/11/3/no-one-reads-your-paper-either)
 
 ## Chapter 2: Constructing meaningful sentences and paragraphs
@@ -35,10 +36,10 @@ Many of my blog posts can be considered sections in books that I might have writ
 
 ## Chapter 4: Creating professional documents, graphs, and figures
 
-1. [How to not mess up your bibliographies with Bibtex](/blog/2015/10/2/Bibtex/)
+2. [Formatting figure captions and tables](/blog/2015/11/24/formatting-figure-captions-and-tables/)
 2. [The axis labels are too damn small](/blog/2013/9/10/the-axis-labels-are-too-damn-small)
 2. [To grid or not to grid](/blog/2014/10/7/to-grid-or-not-to-grid)
-
+1. [How to not mess up your bibliographies with Bibtex](/blog/2015/10/2/Bibtex/)
 
 # Professional Development as a Scientist
 
@@ -58,16 +59,21 @@ Many of my blog posts can be considered sections in books that I might have writ
 1. [How to schedule a committee meeting](/blog/2014/10/14/how-to-schedule-a-committee-meeting)
 1. [Excess ambition—the eternal flaw of all PhD thesis proposals](/blog/2013/12/7/excess-ambitionthe-eternal-flaw-of-all-phd-thesis-proposals)
 
-## Chapter 3: Applying for jobs
+## Chapter 3: Giving presentations
+
+1. [Giving effective presentations](/blog/2013/10/20/giving-effective-presentations/)
+
+
+## Chapter 4: Applying for jobs
 
 3. [Should you list on your cv a paper that is in review or in preparation?](/blog/2013/9/10/should-you-list-a-paper-in-review-or-in-preparation-on-your-cv)
 
-## Chapter 4: Applying for funding
+## Chapter 5: Applying for funding
 
 1. [Which grants get funded at single-digit funding rates?](/blog/2013/10/17/which-grants-get-funded-at-single-digit-funding-rates)
 2. [The critical need in a grant application](/blog/2013/10/17/the-critical-need-in-a-grant-application)
 
-## Chapter 5: Miscellaneous topics
+## Chapter 6: Miscellaneous topics
 
 1. [How to develop a research question](/blog/2014/6/15/how-to-develop-a-research-question)
 2. [How to develop a research question, Part II](/blog/2014/6/18/how-to-develop-a-research-question-part-ii)
