@@ -6,6 +6,7 @@ baseurl: "" # the subpath of the site, e.g. /blog/
 url: "http://serialmentor.com" # the base hostname & protocol
 permalink: /blog/:year/:i_month/:i_day/:title
 excerpt_separator: <!--more-->
+gems: [jekyll-paginate]
 paginate: 12
 paginate_path: "/blog/page:num/"
 
