@@ -6,7 +6,7 @@ date: 2016-06-13
 categories: 
     - science
 ---
-Everybody who is familiar with the R libraries for processing of tidy data, such as `dplyr` and `ggplot`, knows how powerful they are and how much one can get done with just a few lines of R code. However, similarly, everybody who has used them has probably spent more time bringing data into the appropriate tidy format than writing analysis and/or plotting code. In particular, one scenario that arises all the time is that even if data files are in tidy format, the entire dataset may be spread out over many individual files, and loading them all in and combining them into one large table can be cumbersome. Here, I want to demonstrate some neat tricks, using the relatively new package `purrr` and some recent additions to the package `tidyr`, that make loading and combining many datafiles a piece of cake.
+Everybody who is familiar with the R libraries for processing of tidy data, such as `dplyr` and `ggplot`, knows how powerful they are and how much one can get done with just a few lines of R code. However, similarly, everybody who has used them has probably spent more time bringing data into the appropriate tidy format than writing analysis and/or plotting code. In particular, one scenario that arises all the time is that even if data files are in tidy format, the entire dataset may be spread out over many individual files, and loading them all in and combining them into one large table can be cumbersome. Here, I want to demonstrate some neat tricks, using the relatively new package `purrr` and some recent additions to the package `tidyr`, that make loading and combining many data files a piece of cake.
 
 The code shown here depends on the following R packages:
 <!--more-->
@@ -174,7 +174,7 @@ unnest(data)
 
 ## Creating filenames from data
 
-In the previous examples, we have read in all the datafiles in a given directory. Often, however, we would rather read in specific files based on other data we have. For example, let's assume we have the following data table:
+In the previous examples, we have read in all the data files in a given directory. Often, however, we would rather read in specific files based on other data we have. For example, let's assume we have the following data table:
 
 ``` r
 cities <- data_frame(city = c("New York", "Houston"),
