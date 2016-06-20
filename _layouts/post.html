@@ -1,7 +1,6 @@
 ---
 layout: default
 # for disqus comments, set to false to disable, can also be done for individual posts 
-comments: true
 ---
 <div class="wrapper">
 <div class="content-main">
@@ -65,7 +64,7 @@ comments: true
 
 <!-- **** Disqus **** -->
 
-{% if page.comments %}
+{% unless page.no_comments %}
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -84,7 +83,7 @@ comments: true
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
-{% endif %}
+{% endunless %}
 
 <!-- **** end Disqus **** -->
 

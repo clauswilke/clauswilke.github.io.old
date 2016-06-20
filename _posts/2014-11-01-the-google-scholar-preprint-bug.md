@@ -10,7 +10,6 @@ tags:
     - preprints
     - scientific communication
     - bug
-comments: true
 ---
 Google Scholar has a serious bug when it comes to preprints. If you have published a preprint of your paper, the later journal publication can be completely invisible to Google Scholar, seemingly absent from their entire database. Even a search for the exact article title will not find the article. And this condition remains for months. (It will eventually fix itself, though. After about a year.) I have now seen this bug in action for several of my papers, and I am confident it’s a reproducible flaw and not a one-off. I reported the issue to the Google Scholar team about a year ago (or at least, I filled in some web form that seemed to be designed to send them feedback) but I have received no response and the bug clearly still exists. I hope that with this blog-post I can draw some attention to this serious issue, so we can have it fixed. Thousands of scientists rely on Google Scholar every day. For many recent articles, this bug will steer these scientists towards outdated, early versions and make the authoritative article versions completely inaccessible.
 
