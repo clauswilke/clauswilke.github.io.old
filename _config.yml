@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Science, Writing, Fitness, Nutrition, Professional Development
 baseurl: "" # the subpath of the site, e.g. /blog/
 url: "http://serialmentor.com" # the base hostname & protocol
-permalink: /blog/:year/:i_month/:i_day/:title/
+permalink: /blog/:year/:i_month/:i_day/:title
 excerpt_separator: <!--more-->
 gems: [jekyll-paginate]
 paginate: 12
