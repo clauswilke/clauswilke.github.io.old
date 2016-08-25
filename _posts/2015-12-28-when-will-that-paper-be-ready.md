@@ -35,7 +35,7 @@ Students often think that their main work goal is the first complete draft. Once
 
 To give just one anecdote, I once wrote a paper with two co-authors, A and B. Me and A had done most of the writing and fleshing out the details of the paper, while B had provided the initial idea and general conceptual thought. We were all copied on all emails regarding this manuscript, and we went through at least 20 different drafts. At a point when I thought we finally had a draft ready for submission, author B suddenly said that he read the entire paper carefully the previous day and thought there was a major hole in our argument. Author A and I disagreed, but author B insisted and we spent another month fixing this perceived hole.
 
-In my experience, it frequently takes 3-6 months from first complete draft to submission, and I have seen longer delays as well. For this reason, [I advocate writing things up as early as possible.](http://serialmentor.com/blog/2013/8/26/when-should-you-stop-doing-science-and-start-writing-a-paper/) The first draft is not the goal, it’s just the beginning!
+In my experience, it frequently takes 3-6 months from first complete draft to submission, and I have seen longer delays as well. For this reason, [I advocate writing things up as early as possible.](/blog/2013/8/26/when-should-you-stop-doing-science-and-start-writing-a-paper) The first draft is not the goal, it’s just the beginning!
 
 
 ## Notes
