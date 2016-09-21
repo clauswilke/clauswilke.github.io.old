@@ -14,12 +14,12 @@ Many of my blog posts can be considered sections in books that I might have writ
 2. [Silence your inner critic](/blog/2013/9/22/silence-your-inner-critic)
 3. [It’s easier to write when you know what you want to say](/blog/2013/9/18/its-easier-to-write-when-you-know-what-you-want-to-say)
 4. [When should you stop doing science and start writing a paper?](/blog/2013/8/26/when-should-you-stop-doing-science-and-start-writing-a-paper)
-4. [When will that paper be ready?](/blog/2015/12/28/when-will-that-paper-be-ready/)
+4. [When will that paper be ready?](/blog/2015/12/28/when-will-that-paper-be-ready)
 5. [No one reads your paper either](/blog/2013/11/3/no-one-reads-your-paper-either)
 
 ## Chapter 2: Constructing meaningful sentences and paragraphs
 
-1. [Avoiding the official style](/blog/2015/8/26/avoiding-the-official-style/)
+1. [Avoiding the official style](/blog/2015/8/26/avoiding-the-official-style)
 1. [Writing paragraphs that make sense—the topic and the stress position](/blog/2013/9/26/writing-paragraphs-that-make-sensethe-topic-and-the-stress-position)
 1. [Don't use the passive voice?](/blog/2015/12/19/dont-use-the-passive-voice)
 2. [Articles!](/blog/2013/10/1/articles)
@@ -36,10 +36,10 @@ Many of my blog posts can be considered sections in books that I might have writ
 
 ## Chapter 4: Creating professional documents, graphs, and figures
 
-2. [Formatting figure captions and tables](/blog/2015/11/24/formatting-figure-captions-and-tables/)
+2. [Formatting figure captions and tables](/blog/2015/11/24/formatting-figure-captions-and-tables)
 2. [The axis labels are too damn small](/blog/2013/9/10/the-axis-labels-are-too-damn-small)
 2. [To grid or not to grid](/blog/2014/10/7/to-grid-or-not-to-grid)
-1. [How to not mess up your bibliographies with Bibtex](/blog/2015/10/2/Bibtex/)
+1. [How to not mess up your bibliographies with Bibtex](/blog/2015/10/2/Bibtex)
 
 # Professional Development as a Scientist
 
@@ -61,7 +61,7 @@ Many of my blog posts can be considered sections in books that I might have writ
 
 ## Chapter 3: Giving presentations
 
-1. [Giving effective presentations](/blog/2013/10/20/giving-effective-presentations/)
+1. [Giving effective presentations](/blog/2013/10/20/giving-effective-presentations)
 
 
 ## Chapter 4: Applying for jobs
