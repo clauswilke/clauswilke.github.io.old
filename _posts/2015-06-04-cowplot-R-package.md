@@ -11,7 +11,7 @@ tags:
     - CRAN
     - github
 ---
-This week, I finally took the time to clean up the code for my cowplot R package and [submit it to CRAN.](http://cran.r-project.org/web/packages/cowplot/index.html) While the code had been up on [github for a while,](https://github.com/wilkelab/cowplot) and I had [blogged about it previously,](http://serialmentor.com/blog/2014/10/7/to-grid-or-not-to-grid) nobody had really taken notice as far as I can tell. However, this time, with an official release and better documentation, people seem to like it a lot. The response on Twitter was overwhelming.
+This week, I finally took the time to clean up the code for my cowplot R package and [submit it to CRAN.](http://cran.r-project.org/web/packages/cowplot/index.html) While the code had been up on [github for a while,](https://github.com/wilkelab/cowplot) and I had [blogged about it previously,](/blog/2014/10/7/to-grid-or-not-to-grid) nobody had really taken notice as far as I can tell. However, this time, with an official release and better documentation, people seem to like it a lot. The response on Twitter was overwhelming.
 
 <!--more-->
 
