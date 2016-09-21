@@ -185,7 +185,7 @@ Thus we arrive at our take-home message, both for this section and for the entir
 
 [5]<a id="note5"></a> J. D. Stark, J. E. Banks, and R. Vargas. How risky is risk assessment: The role that life history strategies play in susceptibility of species to stress. *Proc. Natl. Acad. Sci. USA,* 101:732–736, 2004.
 
-[6]<a id="note6"></a> For a more systematic approach to text flow, take a look at my blog post on the [topic and stress positions](/blog/2013/9/26/writing-paragraphs-that-make-sensethe-topic-and-the-stress-position/). However, this approach doesn't eliminate the [need for careful reading.](/blog/2013/10/8/to-write-well-learn-how-to-read/) 
+[6]<a id="note6"></a> For a more systematic approach to text flow, take a look at my blog post on the [topic and stress positions](/blog/2013/9/26/writing-paragraphs-that-make-sensethe-topic-and-the-stress-position). However, this approach doesn't eliminate the [need for careful reading.](/blog/2013/10/8/to-write-well-learn-how-to-read) 
 
 [7]<a id="note7"></a> N. Prabhu, M. Prabakaran, H.-T. Ho, S. Velumani, J. Qiang, M. Goutama, and J. Kwang. Monoclonal antibodies against the fusion peptide of hemagglutinin protect mice from lethal influenza A virus H5N1 infection. *J. Virol.,* 83:2553–2562, 2009.
 

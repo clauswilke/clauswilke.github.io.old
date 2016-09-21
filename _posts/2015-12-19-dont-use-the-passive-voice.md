@@ -10,7 +10,7 @@ I came across [a talk by Steven Pinker](https://www.youtube.com/watch?v=OV5J6BfT
 
 <!--more-->
 
-To fully understand when to use active or passive voice, we need to first grasp the concepts of the topic and the stress position. I have previously written a [blog post about this topic.](http://serialmentor.com/blog/2013/9/26/writing-paragraphs-that-make-sensethe-topic-and-the-stress-position/) Please go ahead and read it now. I'll wait.
+To fully understand when to use active or passive voice, we need to first grasp the concepts of the topic and the stress position. I have previously written a [blog post about this topic.](/blog/2013/9/26/writing-paragraphs-that-make-sensethe-topic-and-the-stress-position) Please go ahead and read it now. I'll wait.
 
 Now that we're all on the same page, let's proceed. The simple rule is this: Topic and stress trump active and passive. If the topic is the actor, use active voice. If the topic is being acted upon, use passive voice. Examples:
 
@@ -49,7 +49,7 @@ In scientific writing, though, I think it's more common that the actor is omitte
 
 > A fluorinated silyl functionalized zirconia was synthesized by the sol-gel method to fabricate an extremely durable superhydrophobic coating on cotton fabrics by simple immersion technique. The fabric surfaces firmly attached with the coating material through covalent bonding, possessed superhydrophobicity with high water contact angle ≈163 ± 1°, low hysteresis ≈3.5° and superoleophilicity. The coated fabrics were effective to separate oil/water mixture with a considerably high separation efficiency of 98.8 wt% through ordinary filtering. [. . .]
 
-Finally, passive voice encourages complex sentences with low content-to-word ratio, with long prepositional phrases, and with nouns attempting to carry the action—in a word, the [official style.](http://serialmentor.com/blog/2015/8/26/avoiding-the-official-style/)
+Finally, passive voice encourages complex sentences with low content-to-word ratio, with long prepositional phrases, and with nouns attempting to carry the action—in a word, the [official style.](/blog/2015/8/26/avoiding-the-official-style)
 
 In summary, pay more attention to topic and stress positions than to active and passive voice. However, in case of doubt, choose active over passive constructs.
 
