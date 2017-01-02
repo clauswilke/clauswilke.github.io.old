@@ -30,6 +30,7 @@ Many of my blog posts can be considered sections in books that I might have writ
 1. [Writing a scientific paper in four easy steps](/blog/2013/8/29/writing-a-scientific-paper-in-four-easy-steps)
 1. [How to prepare an article for resubmission](/blog/2014/11/16/how-to-prepare-an-article-for-resubmission)
 1. [How to prepare an article for resubmission, Part II](/blog/2014/12/18/how-to-prepare-an-article-for-resubmission-part-ii)
+1. [How to reject a rejection](/blog/2017/01/02/how-to-reject-a-rejection)
 2. [The critical need in a grant application](/blog/2013/10/17/the-critical-need-in-a-grant-application)
 1. [Use fine-grained sectioning in your grant proposals](/blog/2013/10/28/use-fine-grained-sectioning-in-your-grant-proposals)
 
