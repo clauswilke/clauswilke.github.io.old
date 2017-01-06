@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do-you-have-to-publish-papers-for-a-PhD
-heading: "Do you have to publish papers to obtain a PhD in biology?"
+heading: "Do you have to publish papers to obtain a PhD?"
 date: 2017-01-06
 categories: 
     - writing
