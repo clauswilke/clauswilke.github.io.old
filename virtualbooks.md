@@ -59,6 +59,7 @@ Many of my blog posts can be considered sections in books that I might have writ
 1. [How to pick a thesis committee](/blog/2014/1/26/how-to-pick-a-thesis-committee)
 1. [How to schedule a committee meeting](/blog/2014/10/14/how-to-schedule-a-committee-meeting)
 1. [Excess ambition—the eternal flaw of all PhD thesis proposals](/blog/2013/12/7/excess-ambitionthe-eternal-flaw-of-all-phd-thesis-proposals)
+1. [Do you have to publish papers to obtain a PhD?](/blog/2017/1/6/do-you-have-to-publish-papers-for-a-phd)
 
 ## Chapter 3: Giving presentations
 

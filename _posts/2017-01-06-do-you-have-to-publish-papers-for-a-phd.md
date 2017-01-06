@@ -4,7 +4,7 @@ title: Do-you-have-to-publish-papers-for-a-PhD
 heading: "Do you have to publish papers to obtain a PhD?"
 date: 2017-01-06
 categories: 
-    - writing
+    - academia
 ---
 
 It is common for friction to arise between graduate students and their supervisors (PIs) over how many and what kind of papers the students need to publish before graduating. While on occasion the students' complaint is that their PI keeps them from publishing [[1]](#note1), the much more common scenario is one where the PI wants the student to complete *x* papers in *y* journals while the student just wants to graduate and move on. When these conflicts come to a head, students usually start to inquire what the minimum requirements are before graduation. 
