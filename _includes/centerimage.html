@@ -1,9 +1,9 @@
-<div class="row">
+<div>
 <div class="image-center">
   <div class="float-center {{ include.options }}">
     {% if include.id %}<a id="{{ include.id }}"></a>{% endif %}
     <a href="{{ include.url }}"><img class="img-responsive" src="{{ include.url }}" alt="{{ include.description }}"/></a>
   </div>
-{% if include.note %} <span class="caption-text">{{ include.note }}</span> {% endif %}
 </div>
+{% if include.note %} <div class="caption-text">{{ include.note }}</div> {% endif %}
 </div>

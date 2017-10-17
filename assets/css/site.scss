@@ -131,8 +131,17 @@ figure {
     width: 70%
 }
 
+.width-80 {
+    width: 80%
+}
+
+.width-90 {
+    width: 90%
+}
+
 .caption-text {
     font-size: $font-size-caption;
+    margin-bottom: ($line-height-computed / 2);
 }
 
 
