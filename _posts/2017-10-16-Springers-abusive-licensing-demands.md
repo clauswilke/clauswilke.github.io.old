@@ -38,4 +38,4 @@ For all the above reasons, the paper is now with F1000Research, and you can read
      
 ## Notes
 
-[1]<a id="note1"></a> Andrew Rambaut [pointed out](https://twitter.com/arambaut/status/919980657153138688) that Nature (the journal) does not require a permanent, exclusive copyright license anymore.
+[1]<a id="note1"></a> Andrew Rambaut [pointed out](https://twitter.com/arambaut/status/919980657153138688) that Nature (the journal) does not require a permanent, exclusive copyright license anymore. This statement was later disputed by [Daniel Himmelstein.](https://twitter.com/dhimmel/status/920168108962312192)
