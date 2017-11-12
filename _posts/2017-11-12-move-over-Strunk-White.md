@@ -13,11 +13,11 @@ categories:
 
 ## Storytelling
 
-Storytelling is probably the most important and least appreciated aspect of scientific writing. Every time you're writing a scientific paper or a research grant, you need to tell a compelling story. Yet not many books on the market cover this aspect of writing. The one book that I'm aware of that does an outstanding job in this respect is *Writing Science* by Schimel:
+Storytelling is probably the most important and least appreciated aspect of scientific writing. Every time you're writing a scientific paper or a research grant, you need to tell a compelling story. Yet not many books on the market cover this aspect of writing. The one book that I'm aware of that does an outstanding job is *Writing Science* by Schimel:
 
 > Joshua Schimel. *Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded.* Oxford University Press, 2011.
 
-Schimel explains what makes a story exciting and interesting, how to turn your scientific findings into a story without compromising scientific accuracy, and how to structure sentences, paragraphs, sections, and entire documents to keep your reader interested and engaged.
+Schimel explains what makes a story exciting and interesting, how to turn your scientific findings into a compelling story without compromising scientific accuracy, and how to structure sentences, paragraphs, sections, and entire documents such that your readers remain interested and engaged.
 
 ## Copy editing
 
@@ -29,11 +29,11 @@ This book does an amazing job of systematically covering the grammatical and sty
 
 ## Writing productively
 
-The last area where many writers struggle is productivity. Despite extensive knowledge about storytelling and grammar, your writing sessions may well consist of hours of staring at a blank piece of paper or an empty computer screen, with the occasional writing and subsequent deletion of a single awkward sentence. How to overcome this struggle is covered well in *How to Write a Lot* by Silvia:
+The last area where many writers struggle is productivity. Despite extensive knowledge of storytelling and grammar, your writing sessions may well consist of hours of staring at a blank piece of paper or an empty computer screen, with the occasional writing and subsequent deletion of a single awkward sentence. How to overcome this struggle is covered well in *How to Write a Lot* by Silvia:
 
 > Paul J. Silvia. *How to Write a Lot: A Practical Guide to Productive Academic Writing.* American Psychological Association, 2007.
 
-It turns out that there isn't that much to be said about how to write a lot, other than that you have to write a lot. I like Silvia's book because it makes no pretense otherwise. Silvia covers the key concepts in a few short and highly readable chapters.
+It turns out that there isn't that much to be said about how to write a lot, other than that you have to write a lot. Silvia's book makes no pretense otherwise, and that's why I like it. Silvia covers the key concepts in a few short and highly readable chapters.
 
 ## Bonus
 
@@ -45,4 +45,4 @@ I have previously [blogged about this book.](/blog/2015/8/26/avoiding-the-offici
 
 ## Notes
 
-[1]<a id="note1"></a> I'll challenge anybody to read Strunk and White cover-to-cover without falling asleep and to summarize afterwards what they have learned. The book is available online [in its entirety](http://www.jlakes.org/ch/web/The-elements-of-style.pdf), so feel free to take this challenge right now.
+[1]<a id="note1"></a> I'll challenge anybody to read Strunk and White cover-to-cover without falling asleep, and to summarize afterwards what they have learned. The book is available online [in its entirety](http://www.jlakes.org/ch/web/The-elements-of-style.pdf), so feel free to take this challenge right now.
