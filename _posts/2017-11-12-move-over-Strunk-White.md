@@ -25,7 +25,7 @@ The best story arc doesn't get you very far if your individual sentences are inc
 
 > Claire Kehrwald Cook. *Line by Line: How to Edit Your Own Writing.* Houghton Mifflin Harcourt, 1985.
 
-This book does an amazing job of systematically covering the grammatical and stylistic issues every writer should be aware of. All the while the book remains quite readable. Unlike most texts with an emphasis on grammar you can actually read the book cover to cover.
+This book does an amazing job of systematically covering the grammatical and stylistic issues every writer should be aware of, and all the while the book remains quite readable. Unlike most texts with an emphasis on grammar you can actually read the book cover to cover.
 
 ## Writing productively
 
