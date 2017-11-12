@@ -42,6 +42,10 @@ Many of my blog posts can be considered sections in books that I might have writ
 2. [To grid or not to grid](/blog/2014/10/7/to-grid-or-not-to-grid)
 1. [How to not mess up your bibliographies with Bibtex](/blog/2015/10/2/Bibtex)
 
+## Chapter 5: Miscellaneous topics
+
+1. [Move over Strunk and White: My all-time favorite books on writing](/blog/2017/11/12/move-over-Strunk-White)
+
 # Professional Development as a Scientist
 
 ## Chapter 1: The academic career
