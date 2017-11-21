@@ -11,12 +11,12 @@ Everybody who is familiar with the R libraries for processing of tidy data, such
 The code shown here depends on the following R packages:
 <!--more-->
 
-```R
-require(readr)  # for read_csv()  
-require(dplyr)  # for mutate()  
-require(tidyr)  # for unnest()  
+~~~ r
+require(readr)  # for read_csv()
+require(dplyr)  # for mutate()
+require(tidyr)  # for unnest()
 require(purrr)  # for map(), reduce()
-```
+~~~
 
 ## Reading in all files matching a given name
 
@@ -24,11 +24,11 @@ As an example, we will consider a scenario where we have population census data 
 
 The first scenario we will consider is one where we want to read all csv files in the current working directory. To achieve this goal, we first list all `*.csv` files, using the function `dir()`. We find that there are three, for the cities Houston, Los Angeles, and New York:
 
-```R
-# find all file names ending in .csv  
-files <- dir(pattern = "*.csv")  
+~~~ R
+# find all file names ending in .csv 
+files <- dir(pattern = "*.csv")
 files
-```
+~~~
 
     ## [1] "Houston_TX.csv"     "Los Angeles_CA.csv" "New York_NY.csv"
 
