@@ -12,9 +12,9 @@ The code shown here depends on the following R packages:
 <!--more-->
 
 ```R
-require(readr)  # for read_csv()
-require(dplyr)  # for mutate()
-require(tidyr)  # for unnest()
+require(readr)  # for read_csv()  
+require(dplyr)  # for mutate()  
+require(tidyr)  # for unnest()  
 require(purrr)  # for map(), reduce()
 ```
 
@@ -25,8 +25,8 @@ As an example, we will consider a scenario where we have population census data 
 The first scenario we will consider is one where we want to read all csv files in the current working directory. To achieve this goal, we first list all `*.csv` files, using the function `dir()`. We find that there are three, for the cities Houston, Los Angeles, and New York:
 
 ```R
-# find all file names ending in .csv
-files <- dir(pattern = "*.csv")
+# find all file names ending in .csv  
+files <- dir(pattern = "*.csv")  
 files
 ```
 
@@ -35,10 +35,10 @@ files
 We can then read in those files and combine them into one data frame using the `purrr` functions `map()` and `reduce()`:
 
 ```R
-data <- files %>%
-  map(read_csv) %>%    # read in all the files individually, using 
-                       # the function read_csv() from the readr package
-  reduce(rbind)        # reduce with rbind into one dataframe
+data <- files %>%  
+  map(read_csv) %>%    # read in all the files individually, using   
+                       # the function read_csv() from the readr package  
+  reduce(rbind)        # reduce with rbind into one dataframe  
 data
 ```
 
