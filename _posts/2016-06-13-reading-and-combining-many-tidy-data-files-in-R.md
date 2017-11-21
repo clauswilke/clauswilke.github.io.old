@@ -11,7 +11,7 @@ Everybody who is familiar with the R libraries for processing of tidy data, such
 The code shown here depends on the following R packages:
 <!--more-->
 
-``` r
+```R
 require(readr)  # for read_csv()
 require(dplyr)  # for mutate()
 require(tidyr)  # for unnest()
@@ -24,7 +24,7 @@ As an example, we will consider a scenario where we have population census data 
 
 The first scenario we will consider is one where we want to read all csv files in the current working directory. To achieve this goal, we first list all `*.csv` files, using the function `dir()`. We find that there are three, for the cities Houston, Los Angeles, and New York:
 
-``` r
+```R
 # find all file names ending in .csv
 files <- dir(pattern = "*.csv")
 files
@@ -34,7 +34,7 @@ files
 
 We can then read in those files and combine them into one data frame using the `purrr` functions `map()` and `reduce()`:
 
-``` r
+```R
 data <- files %>%
   map(read_csv) %>%    # read in all the files individually, using 
                        # the function read_csv() from the readr package
@@ -64,7 +64,7 @@ data
 
 Often, we want to read the data from a given directory rather than from the current working directory. The ability to define functions on-the-fly in `purrr` makes this easy:
 
-``` r
+```R
 data_path <- "city_data"   # path to the data
 files <- dir(data_path, pattern = "*.csv") # get file names
 
@@ -97,7 +97,7 @@ data
 
 Here, the expression `~ read_csv(file.path(data_path, .))` is a shortcut for the anonymous function definition `function(x) read_csv(file.path(data_path, x))`:
 
-``` r
+```R
 # this code does the exact same thing as the previous code
 data <- files %>%
   map(function(x) read_csv(file.path(data_path, x))) %>%  
@@ -129,7 +129,7 @@ data
 
 One limitation of the previous approach is that we don't keep any auxilliary information we may want to, such as the filenames of the files read. To keep the filename alongside the data, we can read the data into a nested dataframe rather than a list, using the `mutate()` function from `dplyr`. This gives us the following result:
 
-``` r
+```R
 data <- data_frame(filename = files) %>% # create a data frame
                                          # holding the file names
   mutate(file_contents = map(filename,          # read files into
@@ -148,7 +148,7 @@ data
 
 To turn this data frame into one useful for downstream analysis, we use the function `unnest()` from `tidyr`:
 
-``` r
+```R
 unnest(data)
 ```
 
@@ -176,7 +176,7 @@ unnest(data)
 
 In the previous examples, we have read in all the data files in a given directory. Often, however, we would rather read in specific files based on other data we have. For example, let's assume we have the following data table:
 
-``` r
+```R
 cities <- data_frame(city = c("New York", "Houston"),
                      state = c("NY", "TX"),
                      area = c(305, 599.6))
@@ -192,7 +192,7 @@ cities
 
 We want to use the city and state columns to create appropriate filenames and then load in the corresponding files. The code in its entirety looks as follows:
 
-``` r
+```R
 data <- cities %>% # start with the cities table
   # create filenames
   mutate(filename = paste(city, "_", state, ".csv", sep="")) %>%
