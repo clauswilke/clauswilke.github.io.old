@@ -21,3 +21,6 @@ If anything is unclear, please ask questions in the comments!
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/cYcOAnmJQPQwbJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 [Giving effective presentations](http://www.slideshare.net/wilkelab/giving-effective-presentations-oct-2013) – Claus Wilke, Oct. 2013
+
+
+**Update July 3, 2018:** An updated and expanded version of this presentation is available [here.](https://www.slideshare.net/ClausWilke/giving-effective-presentations-oct-2016)
