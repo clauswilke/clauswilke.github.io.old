@@ -23,4 +23,4 @@ If anything is unclear, please ask questions in the comments!
 [Giving effective presentations](http://www.slideshare.net/wilkelab/giving-effective-presentations-oct-2013) – Claus Wilke, Oct. 2013
 
 
-**Update July 3, 2018:** An updated and expanded version of this presentation is available [here.](https://www.slideshare.net/ClausWilke/giving-effective-presentations-oct-2016)
+**Update July 3, 2018:** An updated and expanded version of this presentation [is available here.](https://www.slideshare.net/ClausWilke/giving-effective-presentations-oct-2016)
