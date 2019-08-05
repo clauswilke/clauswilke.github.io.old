@@ -27,7 +27,7 @@ In summary, I find that the predicted relationship between $$h$$ and $$N_\text{t
 
 [1]<a id="note1"></a> The paper’s reference is:
 
-> A. Yong (2014). [Critique of Hirsch’s Citation Index: A Combinatorial Fermi Problem.]( http://dx.doi.org/10.1090/noti1164) _Notices of the AMS_ 61:1040-1050.
+> A. Yong (2014). [Critique of Hirsch’s Citation Index: A Combinatorial Fermi Problem.]( https://doi.org/10.1090/noti1164) _Notices of the AMS_ 61:1040-1050.
 
 [2]<a id="note2"></a> The $$h$$ index is the number of papers a scientist has written that have received at least $$h$$ citations. For example, if you have $$h$$ = 10, then you have written 10 papers that have been cited 10 or more times. You may have written more than 10 papers total, but none of the other papers you may have written has received more than 10 citations yet. 
 

@@ -15,7 +15,7 @@ tags:
 ---
 PLOS Computational Biology just published a new addition to their popular [“ten simple rules”](http://www.ploscollections.org/article/browse/issue/info%3Adoi%2F10.1371%2Fissue.pcol.v03.i01) series:
 
-> Sandve GK, Nekrutenko A, Taylor J, Hovig E (2013) Ten Simple Rules for Reproducible Computational Research. PLoS Comput Biol 9(10): e1003285. [doi:10.1371/journal.pcbi.1003285](http://dx.doi.org/10.1371/journal.pcbi.1003285)
+> Sandve GK, Nekrutenko A, Taylor J, Hovig E (2013) Ten Simple Rules for Reproducible Computational Research. PLoS Comput Biol 9(10): e1003285. [doi:10.1371/journal.pcbi.1003285](https://doi.org/10.1371/journal.pcbi.1003285)
 
 This article is relevant to anybody who wants to do computational research. I’ll make it required reading in my lab. For every single one of these rules, I can think of projects I’ve been involved with [[1]](#note1) that ran into trouble or failed because they violated that rule.
 

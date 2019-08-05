@@ -16,7 +16,7 @@ tags:
 ---
 I just learned about this review article that was published earlier this summer in the European Journal of Clinical Nutrition:
 
-> A. Paoli, A. Rubini, J. S. Volek and K. A. Grimaldi. Beyond weight loss: a review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets. *European Journal of Clinical Nutrition* **67**:789–796, 2013; [doi:10.1038/ejcn.2013.116](http://dx.doi.org/10.1038/ejcn.2013.116)
+> A. Paoli, A. Rubini, J. S. Volek and K. A. Grimaldi. Beyond weight loss: a review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets. *European Journal of Clinical Nutrition* **67**:789–796, 2013; [doi:10.1038/ejcn.2013.116](https://doi.org/10.1038/ejcn.2013.116)
 
 This is a fantastic article summarizing the current knowledge about ketogenic diets. Read it!
 

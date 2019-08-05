@@ -53,8 +53,8 @@ Importantly, I can think of no principled test that would cleanly separate prepr
 
 ## Notes
 
-[1]<a id="note1"></a> Klein et al. (2014) Scholarly context not found: One in five articles suffers from reference rot. PLoS ONE 9: e115253. [doi:10.1371/journal.pone.0115253](http://dx.doi.org/10.1371/journal.pone.0115253)
+[1]<a id="note1"></a> Klein et al. (2014) Scholarly context not found: One in five articles suffers from reference rot. PLoS ONE 9: e115253. [doi:10.1371/journal.pone.0115253](https://doi.org/10.1371/journal.pone.0115253)
 
-[2]<a id="note2"></a> Siler et al. (2014) Measuring the effectiveness of scientific gatekeeping. PNAS, in press. [doi:10.1073/pnas.1418218112](http://dx.doi.org/10.1073/pnas.1418218112)
+[2]<a id="note2"></a> Siler et al. (2014) Measuring the effectiveness of scientific gatekeeping. PNAS, in press. [doi:10.1073/pnas.1418218112](https://doi.org/10.1073/pnas.1418218112)
 
 [3]<a id="note3"></a> Keep in mind that this entire post is about the conditions that make a document a *citable* contribution to the scientific literature. This is different from the question of whether a document is a preprint or a formally published article. The main services that journals provide are (i) quality control, in the form of editorial and peer review, (ii) prestige, in proportion to how selective they are, and (iii) professional typesetting, though the quality of this service has declined in recent years. In return, journals demand exclusivity. Thus, it is natural for a journal to determine whether a document has been previously published by asking whether the document has previously undergone editorial and peer review and has been professionally typeset. Importantly, when journals make this assessment, they are not concerned with the quality of peer review. Any document that has been reviewed and accepted for publication elsewhere, no matter how low the standards, would violate the exclusivity clause and hence is going to be considered published.

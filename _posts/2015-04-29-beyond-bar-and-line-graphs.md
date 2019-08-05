@@ -12,7 +12,7 @@ tags:
 ---
 PLOS Biology recently published a nice article on data visualization:
 
-> Weissgerber TL, Milic NM, Winham SJ, Garovic VD (2015) Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm. PLOS Biol 13(4): e1002128. [doi:10.1371/journal.pbio.1002128](http://dx.doi.org/10.1371/journal.pbio.1002128)
+> Weissgerber TL, Milic NM, Winham SJ, Garovic VD (2015) Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm. PLOS Biol 13(4): e1002128. [doi:10.1371/journal.pbio.1002128](https://doi.org/10.1371/journal.pbio.1002128)
 
 <!--more-->
  
